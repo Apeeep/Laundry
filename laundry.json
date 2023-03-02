@@ -1,0 +1,58 @@
+{
+    "6": {
+        "cabang": "Jakarta",
+        "namaPelanggan": "Raff",
+        "nomorHp": "029482312",
+        "jumlah": "5",
+        "total": 25000,
+        "diskon": null
+    },
+    "5": {
+        "cabang": "Jakarta",
+        "namaPelanggan": "Raff",
+        "nomorHp": "029482312",
+        "jumlah": "5",
+        "total": 25000,
+        "diskon": null
+    },
+    "4": {
+        "cabang": "Jakarta",
+        "namaPelanggan": "Raff",
+        "nomorHp": "029482312",
+        "jumlah": "5",
+        "total": 25000,
+        "diskon": null
+    },
+    "3": {
+        "cabang": "Depok",
+        "namaPelanggan": "Rafif",
+        "nomorHp": "085823812942",
+        "jumlah": "20",
+        "total": 100000,
+        "diskon": 5000
+    },
+    "2": {
+        "cabang": "Depok",
+        "namaPelanggan": "raff",
+        "nomorHp": "0828324123",
+        "jumlah": "2",
+        "total": 10000,
+        "diskon": null
+    },
+    "1": {
+        "cabang": "Bekasi",
+        "namaPelanggan": "323",
+        "nomorHp": "3232",
+        "jumlah": "323",
+        "total": 1615000,
+        "diskon": 80750
+    },
+    "0": {
+        "cabang": "-- Pilihan Cabang --",
+        "namaPelanggan": "32323",
+        "nomorHp": "232323",
+        "jumlah": "23232",
+        "total": 116160000,
+        "diskon": 5808000
+    }
+}
